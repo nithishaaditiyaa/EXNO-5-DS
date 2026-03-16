@@ -154,6 +154,16 @@ plt.show()
 
 Output : 
 
+<img width="630" height="457" alt="image" src="https://github.com/user-attachments/assets/b3968f4c-faf7-48b3-baae-a2d65ab7c654" />
+<img width="638" height="495" alt="image" src="https://github.com/user-attachments/assets/d2c16aae-228f-4d35-bcfc-52abf1174e3f" />
+<img width="654" height="478" alt="image" src="https://github.com/user-attachments/assets/69195afc-63c6-433d-9bba-180539c0bec5" />
+<img width="626" height="466" alt="image" src="https://github.com/user-attachments/assets/9eb3d161-98e3-40db-8935-e75bcaef6251" />
+<img width="678" height="519" alt="image" src="https://github.com/user-attachments/assets/a7040d8b-d057-4cd4-b266-ecb9a77b948a" />
+<img width="667" height="511" alt="image" src="https://github.com/user-attachments/assets/6aef4774-71ee-4524-a344-c229bbb7c519" />
+<img width="631" height="488" alt="image" src="https://github.com/user-attachments/assets/cb5a8b8e-acdb-4bb8-9ce6-f29145e9b586" />
+<img width="589" height="484" alt="image" src="https://github.com/user-attachments/assets/81bf28f6-a1cd-44c2-beee-46f7c5e8d6a3" />
+<img width="457" height="420" alt="image" src="https://github.com/user-attachments/assets/5c909f8c-9ced-4f7e-8c0f-c53115d87f26" />
+
 
 
 # Result:
